@@ -1,1 +1,3 @@
 testi tekstiä repoharkkaa kaksi
+lisää teksti tekstiä repoon numero kaksi
+harjoituksen vuoksi
